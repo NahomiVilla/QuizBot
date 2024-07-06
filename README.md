@@ -1,2 +1,2 @@
 # QuizBot
-Bot de telegram
+Bot de discord
