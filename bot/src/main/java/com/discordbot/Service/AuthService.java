@@ -15,7 +15,7 @@ import java.util.Base64;
 import java.security.Key;
 
 public class AuthService {
-    private static final String SECRET_KEY = "GVoVEujj1RfRMyU3KBcb0rFyw19yydI1OuupGdJ1dsw=";
+    private static final String SECRET_KEY = "SECRET_KEY";
 
     public String generateToken(String userId) {
         Map<String, Object> claims = new HashMap<>();
