@@ -12,8 +12,8 @@ import com.discordbot.models.Question;
 
 public class QuestionService {
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/DiscordBot";
-    private static final String DB_USER = "postgres";
-    private static final String DB_PASSWORD = "S271994v";
+    private static final String DB_USER = "user";
+    private static final String DB_PASSWORD = "password";
 
     public List<Question> getQuestions(String tema) {
         List<Question> questions = new ArrayList<>();
