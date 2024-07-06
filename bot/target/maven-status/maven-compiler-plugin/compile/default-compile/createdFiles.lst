@@ -1,0 +1,7 @@
+com\discordbot\commands\QuizCommand.class
+com\discordbot\Service\AuthService.class
+com\discordbot\config\Config.class
+com\discordbot\models\Question.class
+com\discordbot\Service\QuestionService.class
+com\discordbot\DiscordBot.class
+com\discordbot\commands\QuizCommand$1.class
